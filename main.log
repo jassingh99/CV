@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2020.12.4)  21 MAR 2021 16:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2020.12.4)  27 MAR 2021 19:22
 entering extended mode
 **./main.tex
 (main.tex
@@ -378,7 +378,7 @@ Here is how much of TeX's memory you used:
  21758 multiletter control sequences out of 15000+200000
  535817 words of font info for 38 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 42i,10n,37p,651b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,10n,37p,648b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
 </home/jas/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
 /home/jas/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></ho
 me/jas/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/j
@@ -386,7 +386,7 @@ as/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/jas/.m
 iktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/jas/.mikt
 ex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/jas/.miktex/
 texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (1 page, 100045 bytes).
+Output written on main.pdf (1 page, 100478 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
